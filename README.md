@@ -20,7 +20,7 @@
 ## Детали реализации
 
 1. baseUrl вынесен в переменные конфига
-<img width="1678" height="801" alt="Image" src="https://github.com/user-attachments/assets/6512ea0c-a33f-4e92-8763-9c9bffd51dd5" />
+<img width="1919" height="880" alt="Image" src="https://github.com/user-attachments/assets/b8fdc092-81b8-46b8-be4c-dcf2140274d2" />
 
 2. Переменные данные для авторизации вынесены в отдельный файл
 <img width="1680" height="891" alt="Image" src="https://github.com/user-attachments/assets/0e8fba9d-7f4b-4191-8b21-5a8764d28d10" />
