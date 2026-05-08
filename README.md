@@ -23,7 +23,7 @@
 <img width="1919" height="880" alt="Image" src="https://github.com/user-attachments/assets/b8fdc092-81b8-46b8-be4c-dcf2140274d2" />
 
 2. Переменные данные для авторизации вынесены в отдельный файл
-<img width="1680" height="891" alt="Image" src="https://github.com/user-attachments/assets/0e8fba9d-7f4b-4191-8b21-5a8764d28d10" />
+<img width="1919" height="880" alt="Image" src="https://github.com/user-attachments/assets/21b768ed-4cce-4a98-a2e5-d37884664f1f" />
 
 3. Каждая страница описана в формате объекта с локаторами
 <img width="1686" height="892" alt="Image" src="https://github.com/user-attachments/assets/d5286e75-bce5-4c6b-b6aa-ba9d32945383" />
